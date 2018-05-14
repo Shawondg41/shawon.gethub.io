@@ -1,0 +1,25 @@
+/*Selector {
+	Property: value;
+}*/
+body{
+	background-image: url(DSC_1362-2-3.jpg);
+	background-size: cover; 
+}
+h1{
+	color: red;
+	text-align: center;
+	cursor: pointer;
+}
+p{
+	color: blue;
+	cursor: pointer;
+}
+ol{
+	color: skyblue;
+	cursor: no-drop;
+	display: inline-block;
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
